@@ -1,4 +1,5 @@
-package com.example.yomna.symptomate;
+package com.example.yomna.Vydya
+;
 
 import org.junit.Test;
 
