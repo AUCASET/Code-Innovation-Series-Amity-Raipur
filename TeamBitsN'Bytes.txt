@@ -1,0 +1,7 @@
+1. Copy the main project folder
+2. Paste in xampp/htdocs/
+3. Open a browser and go to URL “http://localhost/phpmyadmin/”
+4. Then, click on the databases tab
+5. Create a database naming “dbcaiwl” and then click on the import tab
+6. Click on browse file and select “dbcaiwl.sql” file which is inside the “database” folder
+7. Click on go.
