@@ -415,7 +415,7 @@ section {
   width: 1px;
   height: 10px;
   transition: .9s;
-  background-color: #149ddd;
+  background-color: #167edf;
 }
 
 /*--------------------------------------------------------------
@@ -432,7 +432,7 @@ section {
 .resume .resume-item {
   padding: 0 0 20px 20px;
   margin-top: -2px;
-  border-left: 2px solid #1f5297;
+  border-left: 2px solid #167edf;
   position: relative;
 }
 
