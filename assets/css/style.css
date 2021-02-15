@@ -204,7 +204,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/hero-bg.jpg") top center;
+  background: url("../img/mypic4.jpg") top center;
   background-size: cover;
 }
 
@@ -735,7 +735,7 @@ section {
 
 .contact .info {
   padding: 30px;
-  background: #fff;
+  background:white;
   width: 100%;
   box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.12);
 }
@@ -746,7 +746,7 @@ section {
   float: left;
   width: 44px;
   height: 44px;
-  background: #dff3fc;
+  background: white;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -805,8 +805,11 @@ section {
 .contact .php-email-form {
   width: 100%;
   padding: 30px;
-  background: #fff;
-  box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.12);
+  /* background: #fff; */
+  background: linear-gradient(to right bottom, rgb(255, 255, 255,0.7),rgba(255, 255, 255,0.3));
+  /* box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.12); */
+  border-radius: 1rem;
+
 }
 
 .contact .php-email-form .form-group {
@@ -871,10 +874,14 @@ section {
 
 .contact .php-email-form input {
   height: 44px;
+  opacity: .8;
+  border-radius: 0.7rem;
 }
 
 .contact .php-email-form textarea {
   padding: 10px 12px;
+  opacity: .8;
+  border-radius: 0.7rem;
 }
 
 .contact .php-email-form button[type="submit"] {
@@ -1072,4 +1079,9 @@ section {
     width: auto;
     padding-right: 20px 15px;
   }
+}
+
+/* My Css  */
+.bgBlue{
+  background: linear-gradient(to right top,rgb(108, 255, 223),rgb(179, 225, 255));
 }
