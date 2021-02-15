@@ -1,0 +1,24 @@
+HOSPITAL MANAGEMENT SYSTEM IN PYTHON
+
+***Developed By CHAITANYA SAI (UZUMAKI) ***
+
+#Configure
+
+```json
+{
+  "database": "database.db",
+  "port": 5000,
+  "host": "127.0.0.1"
+}
+```
+
+How to run?
+- Requires Python 2.7
+- python setup.py install
+- python app.py
+- then go to "127.0.0.1:5000"
+
+
+
+
+
