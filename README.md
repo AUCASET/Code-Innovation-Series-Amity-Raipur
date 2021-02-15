@@ -19,7 +19,7 @@ Read the following steps and guidelines properly for proper submission of your p
 
 - The project directory.
 - The landing page of Portfolio.
-- File struscture must contain:
+- File structure must contain:
   - Related CSS files.
   - Related JS files.
 - Must have proper file structure.
